@@ -1,10 +1,7 @@
-ADO.NET Decorators
-==================
+# ADO.NET Decorators
 
-Description
--
+## Description
 Provides decorators for ADO.NET core classes.
 
-License
--
+## License
 [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
